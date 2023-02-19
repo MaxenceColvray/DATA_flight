@@ -1,0 +1,11 @@
+
+
+- faire un sample sur le fichier final, avec unqiuement les colonnes utiles.
+- vérifier le ration de valeur null pour chaque colonnes 
+
+- Utiliser .corr() selectioner la colonne ArrDelay
+
+- Selectionner les valeur où il y a une certaine correlation.
+
+- créer X avec one hot encoder standard scale et et Y avec 
+
